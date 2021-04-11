@@ -1,0 +1,22 @@
+{
+    "name": "ofarukbicer/plusapi",
+    "description": "PlusAPI.org için API kütüphanesi",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "http://github.com/ofarukbicer/PlusAPI",
+    "keywords": ["PlusAPI","api"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Ömer Faruk Biçer",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ofarukbicer\\PlusAPI\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
